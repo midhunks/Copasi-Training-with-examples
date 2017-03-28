@@ -1,0 +1,41 @@
+Sensitivities Task
+
+Function(s) to be derived:
+Concentration Rates
+
+Calculation to perform: Steady State
+
+Variable(s) for 1. derivation:
+Initial Concentrations
+
+
+Method: Sensitivities Method
+    Delta factor: 0.001
+    Delta minimum: 1e-012
+
+
+
+Sensitivities Result:
+
+Sensitivities array
+
+Rows:    Target functions, Concentration Rates
+Columns: Variables 1, Initial Concentrations
+	[EC]_0	[Z]_0	[X]_0	[Y]_0
+EC.Rate	1.#QNAN	1.#QNAN	1.#QNAN	1.#QNAN
+Z.Rate	1.#QNAN	1.#QNAN	1.#QNAN	1.#QNAN
+X.Rate	1.#QNAN	1.#QNAN	1.#QNAN	1.#QNAN
+Y.Rate	1.#QNAN	1.#QNAN	1.#QNAN	1.#QNAN
+
+Scaled sensitivities array
+
+Rows:    Target functions, Concentration Rates
+Columns: Variables 1, Initial Concentrations
+	[EC]_0	[Z]_0	[X]_0	[Y]_0
+EC.Rate	1.#QNAN	1.#QNAN	1.#QNAN	1.#QNAN
+Z.Rate	1.#QNAN	1.#QNAN	1.#QNAN	1.#QNAN
+X.Rate	1.#QNAN	1.#QNAN	1.#QNAN	1.#QNAN
+Y.Rate	1.#QNAN	1.#QNAN	1.#QNAN	1.#QNAN
+
+
+
